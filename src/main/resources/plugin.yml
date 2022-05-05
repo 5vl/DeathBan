@@ -1,0 +1,7 @@
+name: Deathban
+version: '${project.version}'
+main: me.fivevl.deathban.Main
+api-version: 1.18
+authors: [ 5vl ]
+description: Deathban plugin by 5vl for u/SkiryHatesEmoji
+website: https://github.com/5vl/DeathBan
