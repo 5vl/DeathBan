@@ -9,8 +9,4 @@ class Main : JavaPlugin() {
         saveDefaultConfig()
         Bukkit.getPluginManager().registerEvents(Listener(this), this)
     }
-
-    override fun onDisable() {
-        // Plugin shutdown logic
-    }
 }
